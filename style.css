@@ -169,7 +169,12 @@ section {
     display: flex;
     height: 400px;
     width: 400px;
+    border-radius: 50%;
     margin: auto 0;
+}
+
+.section__pic-container img {
+    border-radius: 50%;
 }
 
 .section__text {
